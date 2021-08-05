@@ -1,0 +1,22 @@
+{
+  "name": "NodeSimBlock",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A basic blockchain demonstrating its simple features",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js 3000"
+  },
+  "keywords": [
+    "blockchain",
+    "javascript",
+    "node",
+    "demo"
+  ],
+  "author": "WebMaster",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "crypto": "^1.0.1"
+  }
+}
